@@ -19,7 +19,7 @@
             android:importantForAccessibility="no"
             android:scaleType="centerCrop"
             tools:srcCompat="@tools:sample/avatars" />
-        m
+
 
         <TextView
             android:id="@+id/item_title"
